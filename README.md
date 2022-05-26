@@ -1,7 +1,7 @@
-hi this is VViewGAN
+VViewGAN
 
 
-follow step~~
+follow step
 
 
 
